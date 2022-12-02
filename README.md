@@ -5,10 +5,10 @@
 Tell us about your project here
 
 ## Team Members
-[1.Subin](enter_github_profile_url)   
-[2.Roshan](enter_github_profile_url)   
-[3.Sinneesh](enter_github_profile_url)   
-[4.Niddhin](enter_github_profile_url)   
+[1.Subin P](enter_github_profile_url)   
+[2.Roshan T](enter_github_profile_url)   
+[3.Sineesh K A](enter_github_profile_url)   
+[4.Nidhin K](enter_github_profile_url)   
 
 ## Link to Project
 [Embed the live link of project](live_link)
