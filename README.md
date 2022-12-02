@@ -1,4 +1,4 @@
-# gracia
+# CONNECT
 
 A new Flutter project.
 
